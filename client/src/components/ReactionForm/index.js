@@ -61,6 +61,5 @@ const ReactionForm = ({ thoughtId }) => {
     </div>
   );
 };
-BtQZAfmVscYsGY74
-mongodb+srv://evansrm5:BtQZAfmVscYsGY74@cluster0.r716t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
 export default ReactionForm;
